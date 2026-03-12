@@ -10,59 +10,44 @@ Before running the notebooks, you need to set up your development environment in
 
 ### Step 1: Open BAS and Create a Dev Space
 
-Open **[Business Application Studio](https://innovation-hub-ai.eu12cf.int.applicationstudio.cloud.sap/)** and click **Create Dev Space**.
-
-![Welcome to SAP Business Application Studio](images/image1.png)
+1. Open **[Business Application Studio](https://innovation-hub-ai.eu12cf.int.applicationstudio.cloud.sap/)**
+2. Click **Create Dev Space**
 
 ### Step 2: Configure the Dev Space
 
-Select **SAP HANA Native Application** and make sure to also select **"Python Tools"**. Give the space a recognizable name.
-
-![Select Python Tools](images/image2.png)
-
-![Create a New Dev Space](images/image3.png)
+1. Select **SAP HANA Native Application**
+2. Also select **Python Tools**
+3. Give the space a recognizable name
+4. Click **Create Dev Space**
 
 ### Step 3: Wait for Dev Space to Start
 
-It will take a few minutes for the Dev Space to start up. The status can be seen beside the name. Once the status changes to **Running**, click on the name to open it.
+1. Wait for the status to change to **Running** (takes a few minutes)
+2. Click on the Dev Space name to open it
 
 ### Step 4: Close the Welcome Screen
 
-If the Welcome screen for SAP HANA appears, click the **X** icon on the Welcome tab to close it.
-
-![Welcome to SAP HANA screen](images/image4.png)
+If the SAP HANA Welcome screen appears, click the **X** icon to close it.
 
 ### Step 5: Clone the Repository
 
-On the Get Started landing page of BAS, select the option **Clone from Git** to import a repository from Github.
-
-Enter the URL: `https://github.com/drettstadt/CareerStarter`
+1. On the Get Started page, select **Clone from Git**
+2. Enter the URL: `https://github.com/drettstadt/CareerStarter`
 
 ### Step 6: Open the Notebook
 
-Click on **RAG_Example.ipynb** (or your target notebook) to open the workbook.
-
-![RAG_Example.ipynb in explorer](images/image5.png)
+Click on **hackathon_minimal.ipynb** to open the workbook.
 
 ### Step 7: Create a Virtual Environment
 
-When asked for a kernel, select **"Python Environments"**.
-
-![Select Another Kernel](images/image6.png)
-
-Select **"Create Python Environment"**.
-
-![Create Python Environment](images/image7.png)
-
-Select **Venv** (Python 3.11.2).
-
-![Select environment type](images/image8.png)
+1. When prompted for a kernel, select **Python Environments**
+2. Select **Create Python Environment**
+3. Select **Venv** (Python 3.11.2)
 
 ### Step 8: Run the Notebook
 
-Follow the steps in the notebook:
-- Execute a cell with `CTRL+ENTER`
-- Execute a cell and jump to the next cell with `SHIFT+ENTER`
+- Execute a cell: `Ctrl+Enter`
+- Execute and advance: `Shift+Enter`
 
 ---
 
