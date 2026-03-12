@@ -36,7 +36,7 @@ If the SAP HANA Welcome screen appears, click the **X** icon to close it.
 
 ### Step 6: Open the Notebook
 
-Click on **hackathon_minimal.ipynb** to open the workbook.
+Click on **hackathon_prompt_optimizer.ipynb** to open the workbook.
 
 ### Step 7: Create a Virtual Environment
 
@@ -77,7 +77,7 @@ AWS_S3_BUCKET=<your-bucket>
 
 ## Running the Notebook
 
-Open `hackathon_perplexity_shk.ipynb` and run cells sequentially:
+Open `hackathon_prompt_optimizer.ipynb` and run cells sequentially:
 
 | Section | What it does |
 |---------|--------------|
