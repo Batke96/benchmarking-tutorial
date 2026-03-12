@@ -32,7 +32,7 @@ If the SAP HANA Welcome screen appears, click the **X** icon to close it.
 ### Step 5: Clone the Repository
 
 1. On the Get Started page, select **Clone from Git**
-2. Enter the URL: `https://github.com/drettstadt/CareerStarter`
+2. Enter the URL: `https://github.com/Batke96/benchmarking-tutorial`
 
 ### Step 6: Open the Notebook
 
@@ -77,7 +77,7 @@ AWS_S3_BUCKET=<your-bucket>
 
 ## Running the Notebook
 
-Open `hackathon_minimal.ipynb` and run cells sequentially:
+Open `hackathon_perplexity_shk.ipynb` and run cells sequentially:
 
 | Section | What it does |
 |---------|--------------|
