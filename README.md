@@ -112,3 +112,29 @@ Optimized Score: 0.759  (+0.138 improvement)
 | Authentication errors | Verify `.env` credentials |
 | Optimization status "DEAD" | Check AI Core logs via SAP BTP cockpit |
 | S3 upload fails | Confirm bucket permissions and region |
+
+---
+
+## Part 2: Exploring SAP AI Launchpad
+
+After completing the notebook, explore SAP AI Launchpad to see your optimization results and discover additional capabilities.
+
+### Open SAP AI Launchpad
+
+**[Launch AI Launchpad](https://innovation-hub-ai.ai-launchpad.intprod-eu12.eu-central-1.aws.ai-prod.cloud.sap/)**
+
+### Key Areas to Explore
+
+| Section | What to Look For |
+|---------|------------------|
+| **Generative AI Hub** | Test models interactively in the playground |
+| **Prompt Editor** | Browse and manage registered prompt templates |
+| **Orchestration** | Configure pipelines with templating and filtering |
+
+### Quick Walkthrough
+
+1. Open **Generative AI Hub** and explore available models in the playground
+2. Navigate to **Orchestration** to see how pipelines are configured
+3. Check out **Data Masking** to see how sensitive data (PII, emails, phone numbers) can be anonymized
+4. Explore **Content Filtering** for input/output moderation capabilities
+5. Click on the **Optimization** tab to review your evaluation and prompt optimization results from Part 1
