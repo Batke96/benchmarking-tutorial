@@ -10,7 +10,7 @@ Before running the notebooks, you need to set up your development environment in
 
 ### Step 1: Open BAS and Create a Dev Space
 
-Go to your SAP BTP cockpit and open Business Application Studio. Click **Create Dev Space**.
+Open **[Business Application Studio](https://innovation-hub-ai.eu12cf.int.applicationstudio.cloud.sap/)** and click **Create Dev Space**.
 
 ![Welcome to SAP Business Application Studio](images/image1.png)
 
